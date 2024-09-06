@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "M Stores"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "301e47d4-d579-4c35-8fa4-b61e086a076e"
+  }
+}
